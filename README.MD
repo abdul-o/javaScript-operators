@@ -26,7 +26,7 @@
     Example of Arithmetic operator
        1) let apple = 10;
           let mango = 20;
-          let totalFruiot = apple + mango;
+          let totalFruit = apple + mango;
 
        2) let costPrice = 5000;
           let sellingPrice = 20000;
@@ -43,9 +43,23 @@
     Example of comparison operator
        1) let apple = 10;
           let mango = 20;
-          let totalFruiot = apple + mango;
+          console.log(apple > mango)
+
+       2) let costPrice = 5000;
+          let sellingPrice = 20000;
+          console.log(costPrice < sellingPrice)
+    
+    Example of logical operator
+       1) let kunleAge = 23;
+          let biodunAge = 40;
+          let koladeage = 40;
+          let tobiAge = 20;
+          
 
        2) let costPrice = 5000;
           let sellingPrice = 20000;
           let profit = sellingPrice - costPrice;
+
+
+
           
