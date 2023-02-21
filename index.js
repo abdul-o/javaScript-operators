@@ -5,7 +5,9 @@ let socialScienceSubjects = "Accounting, Commerce, Marketing, Geography";
 let artSubjects = "Government, Economics, Literature, History";
 let generalSubjects = "English, Mathematics";
 
-let bolatitoGroup = "science";
+let bolatitoGroup = "art";
+
+// possible subject for Bolatito to take 
 
 if (bolatitoGroup === "science" ){
 
@@ -20,3 +22,17 @@ else if( bolatitoGroup === "art") {
 else {
     console.log(generalSubjects);
 };
+
+
+
+// question four (4), "What is the result when the following program is executed?"//
+
+for ( let i=1; i < 20; i += 7){
+    console.log(i);
+};
+
+/* The answer to this above code are :
+   
+     1, 8, and 15     
+     
+*/
